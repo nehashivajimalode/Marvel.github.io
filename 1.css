@@ -1,0 +1,136 @@
+.container1{
+    background-color: black;
+}
+
+#p1{
+    color: white;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+#img1{
+    height: 300px;
+}
+
+
+#img2:hover{
+    color: blue;
+}
+
+.container3{
+    background-color: rgb(255 157 73);
+    padding-left: 5%;
+    border: 3px solid rgb(255 10 10);
+    padding-right: 5%;
+}
+
+.imgbox1:hover img{
+    transform: scale(1.1);
+    transition: 1.5s;
+}
+
+.container4{
+    background-color: rgb(180 246 81);
+    padding-left: 5%;
+    border: 3px solid #02b502;
+    padding-right: 5%;
+}
+
+.imgbox2:hover img{
+    transform: scale(1.1);
+    transition: 1.5s;
+}
+
+.container5{
+    background-color: #8997ff; 
+    padding-left: 5%; 
+    border: 3px solid rgb(255 1 1);
+    padding-right: 5%;
+}
+
+.imgbox3:hover img{
+    transform: scale(1.1);
+    transition: 1.5s;
+}
+
+.container6{
+    background-color: #989898; 
+    padding-left: 5%;
+    border:3px solid rgb(62 53 53);
+    padding-right: 5%
+}
+
+.imgbox4:hover img{
+    transform: scale(1.1);
+    transition: 1.5s;
+}
+
+.container7{
+    background-color: rgb(255 131 255);
+    padding-left: 5%;
+    border: 3px solid #760dd8;
+    padding-right: 5%;
+}
+
+.imgbox5:hover img{
+    transform: scale(1.1);
+    transition: 1.5s;
+}
+
+.container8{
+    background-color: black;
+    padding-left: 5%;
+    border: 3px solid rgb(173, 32, 32);
+    padding-right: 5%;
+}
+
+.imgbox6:hover img{
+    transform: scale(1.1);
+    transition: 1.5s;
+}
+
+.movies{
+    float: left;
+    width: 21%;
+    padding: 12px;
+    margin-left: 27px;
+    background-color: black;
+}
+
+.movies img{
+    height: 500px;
+}
+
+.movies:hover img{
+    transform: scale(1.1);
+    transition: 1.5s;
+}
+
+#colour{
+    color: white;
+}
+
+.games{
+    float: left;
+    width: 21%;
+    padding: 12px;
+    margin-left: 27px;
+    background-color: black;
+}
+
+.games img{
+    height: 400px;
+}
+
+.games:hover img{
+    transform: scale(1.1);
+    transition: 1.5s;
+}
+
+#colour{
+    color: white;
+}
+
+#n1{
+    color: white;
+}
